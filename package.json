@@ -1,0 +1,23 @@
+{
+  "name": "gdaxtrader",
+  "version": "1.0.0",
+  "description": "GDAX trading algorithm runner",
+  "main": "index.js",
+  "scripts": {
+    "start": "node .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/geneschmeling/gdaxtrader.git"
+  },
+  "author": "Gene Schmeling <gene@livefullblast.com>",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/geneschmeling/gdaxtrader/issues"
+  },
+  "homepage": "https://github.com/geneschmeling/gdaxtrader#readme",
+  "dependencies": {
+    "gdax": "^0.4.2"
+  }
+}
